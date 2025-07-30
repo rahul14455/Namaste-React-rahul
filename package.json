@@ -1,0 +1,23 @@
+{
+  "name": "namaste-react-rahul",
+  "version": "1.0.0",
+  "description": "this is namste-react-rahul",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahul14455/Namaste-React-rahul.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rahul14455/Namaste-React-rahul/issues"
+  },
+  "homepage": "https://github.com/rahul14455/Namaste-React-rahul#readme",
+  "devDependencies": {
+    "parcel": "^2.15.4"
+  }
+}
